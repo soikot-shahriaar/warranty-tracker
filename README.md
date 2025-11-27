@@ -124,7 +124,7 @@ warranty-tracker/
 ### Step 1: Download & Extract
 ```bash
 # Clone the repository
-git clone <repository-url> warranty-tracker
+git clone https://github.com/soikot-shahriaar/warranty-tracker
 cd warranty-tracker
 
 # Or download and extract ZIP file
